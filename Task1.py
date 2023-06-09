@@ -18,5 +18,5 @@ n = int(input("First element "))
 step = int(input("Step "))
 end = int(input("Elements emmount  "))
 
-print(arifmethic(n,end,step))
+
 
